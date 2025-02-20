@@ -1,19 +1,24 @@
-### Hi there 👋
+Hi there! 👋 I'm Jiri Beneš
 
-> Whatever You need for Life
+🚀 Full-Stack JavaScript Developer | Backend Specialist | E-Commerce & PWA Professional
 
-**shoppingarena/shoppingarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
 
-Here are some ideas to get you started: 
+I'm a Full-Stack JavaScript Developer with a strong focus on building functional and scalable e-commerce applications. My expertise lies in developing secure authentication systems, seamless payment integrations, and intuitive user experiences with simple, minimalist design principles.
 
-- 🔭 I’m currently working on 
-# ShoppingArena
-> European Social Network for Regional Development and Business support
-- 🌱 I’m currently learning to be full-stack developer working from home ( javascript, nodejs, UI, UX, blockchain, open source, git )
-- 👯 I’m looking to collaborate on this project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: benes.jiri@shoppingarena.eu with Subject: ShoppingArena colab
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 Tech Stack: JavaScript (Node.js, Express.js), SQLite3, Tailwind CSS, Pug, WordPress, WooCommerce
+
+🔹 Expertise:
+
+Developing modern e-commerce platforms with a focus on performance and usability
+
+Implementing secure authentication & authorization (Passkey, OAuth)
+
+Integrating payment solutions (Stripe, other gateways)
+
+Building Progressive Web Applications (PWA) for enhanced user experience
+
+Creating minimalist, client-friendly interfaces that prioritize ease of use
+
+Let's build seamless and high-performing digital experiences together! 🚀
 
